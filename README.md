@@ -6,8 +6,10 @@ qualquer nome e ver detalhes dos filmes como orçamento, receita, duração e et
 
 ## Layout web
 ![image](https://user-images.githubusercontent.com/108680857/216682374-58eb363c-6c7a-4b58-8d09-979b3841e1e6.png)
-
-![Animação](https://user-images.githubusercontent.com/108680857/178053689-d6084067-b8d4-4afb-99e3-fb0425fa87d5.gif)
+Vídeo 1
+![vivi](https://user-images.githubusercontent.com/108680857/216688446-e9558f60-2ab4-4325-b82f-cb41099c81ed.gif)
+Vídeo 2
+![vid2](https://user-images.githubusercontent.com/108680857/216688436-0d1482ba-f2d1-4263-9698-be90ea5417a2.gif)
 
 
 # Tecnologias utilizadas
