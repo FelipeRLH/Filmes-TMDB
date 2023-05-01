@@ -1,8 +1,6 @@
 # Sobre o projeto
 
-Este é um projeto de Catálogo de filmes do TMDB que fiz  usando React. <br>
-Além de listar os melhores filmes, conta com um buscador, podendo pesquisar 
-qualquer nome e ver detalhes dos filmes como orçamento, receita, duração e etc.
+Este projeto consiste em um catálogo de filmes utilizando a API do TMDB e foi desenvolvido utilizando React. Além de listar os melhores filmes, a aplicação conta com um recurso de busca, permitindo que o usuário pesquise por qualquer nome e obtenha detalhes dos filmes, como orçamento, receita, duração, entre outras informações.
 
 ## Layout web
 ![image](https://user-images.githubusercontent.com/108680857/216682374-58eb363c-6c7a-4b58-8d09-979b3841e1e6.png)
